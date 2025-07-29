@@ -1,0 +1,16 @@
+/* tokens.css */
+
+:root{
+    /* Colores */
+    --color-primary: #171212;  
+    --color-secondary: #876363;
+    --color-white: #fff;
+    --color-light: #F5F0F0;
+    --color-red: #E82933;
+
+    /* Tipografías */
+    --font-family: "Plus Jakarta Sans", sans-serif;
+
+    /* Otros */
+    --border-radius: 8px;
+}
